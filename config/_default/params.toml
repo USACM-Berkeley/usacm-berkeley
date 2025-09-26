@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "U.S. Association of Computational Mechanics Chapter at UC Berkeley."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
