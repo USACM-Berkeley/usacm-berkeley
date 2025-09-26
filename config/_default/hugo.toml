@@ -1,9 +1,9 @@
-title = "Hinode"
+title = "USACM at Berkeley"
 copyright = "Copyright © 2022 - 2025 Mark Dumay."
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://usacm-berkeley.github.io/usacm-berkeley/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
